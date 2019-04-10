@@ -35,3 +35,56 @@
     :lives => ["Central Park"]
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"Theo"=> {
+    :color=>:grey,
+    :gender=>:male,
+    :lives=>"Subway"
+},
+"Peter Jr."=> {
+  :color=>:grey,
+  :gender=>:male,
+  :lives=>"Library"
+},
+"Lucky"=> {
+  :color=>:purple,
+  :gender=>:male,
+  :lives=>"Central Park"
+},
+"Ms. K"=> {
+  :color=>:white,
+  :gender=>:female,
+  :lives=>"Central Park"
+},
+"Queenie"=>{:color=>:brown,
+  :gender=>:female,
+  :lives=>"Subway"
+},
+"Andrew"=> {
+  :color=>:white,
+  :gender=>:male,
+  :lives=>"City Hall"
+},
+"Alex"=> {
+  :color=>:brown,
+  :gender=>:male,
+  :lives=>"Central Park"
+  }
+}
